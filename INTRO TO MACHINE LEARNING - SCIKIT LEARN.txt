@@ -1,0 +1,107 @@
+INTRO TO MACHINE LEARNING -SKIKIT LEARN
+
+MACHINE LEARNING  TYPES:
+1.SUPERVISED LEARNING (mostly image classification tasks)
+***CLASSIFICATION***
+...fraud detection
+...emailspam detection
+...diagnostics
+
+***REGRESSION***
+Risk assesment
+some prediction
+
+2.UNSUPERVISED LEARNING(only function is given through which model solves and predicts)
+***DIMENSIONALITY REDUCTION***
+...face recognition
+...text mining
+...big data visualization
+...image recognition
+
+***CLUSTERING***
+...biology
+...city planing
+...Targeted marketing 
+
+**KNN,PCA**
+
+3.REINFORCEMENT LEARNING(robotics, applied machine learning)
+...Gaming
+...finance sector
+...manufacturing
+...inventory management 
+...robot navigation	
+
+MACHINE LEARNING Algorithms
+
+*****SUPERVISED
+1.CLASSIFICATION
+....Naive Bayies
+..SVM..support vector machine
+..Random decision forest
+
+2.REGRESSION
+...liner regression
+...logistic regression
+...genarlised regression
+
+*****UNSUPERVISED 
+1.CLUSTERING
+...K means
+...KNN
+2.DIMENSIONALITY REDUCTION
+...PCA
+...SVD...SUPPORt vector decision
+
+*****REINFORCEMENT
+...Brute Force
+...Approximate Dynamic Programming
+...Markov Decsion process
+
+*****RECOMMENDER SYSTEM (recommendation system like that of NETFLIX)
+...Cold start
+...collaborative filtering
+...item item collaborative filtering
+...preference eliciation
+...similarity search
+
+
+MACHINE LEARNING PROCESS PIPELINE:
+1.Prepare data
+2.train model
+3.package model
+4.validate model
+5.deploy model
+6.monitor model
+
+TRANSFER LEARNING
+big data(in tera bytes)
+..here we do distributive computing
+..cluster of computers
+...pyspark library
+..all computers connected either through secure shell or netwrok or local 
+...all data devided into further computers
+
+SKLEARN
+
+PIP INSTALL SCIKIT-LEARN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

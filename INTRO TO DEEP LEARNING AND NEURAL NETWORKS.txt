@@ -1,0 +1,45 @@
+APPLIED DEEP LEARNING
+1.COMPUTER VISION
+self driving cars
+medical applications
+
+INTERPRETABLE MACHINE LEARNING
+.....uBer self-driver car
+to tell if any error occurs so y it occurs
+
+2.NLP
+chat-bots, alexa 
+its all of deep learning..whole deep learning
+google translation
+
+automatic article writing
+content writer jobs replaced
+
+Dialogflow..google best nlp engine originally known as api.ai
+
+Dialogflow is a natural language understanding
+ platform used to design and integrate a conversational user 
+interface into mobile apps, web applications, devices, bots, 
+interactive voice response systems,
+
+3.RECOMMENDER SYSTEMS
+netflix has strong recommendation system
+
+DEEP LEARNING LIBRARIES
+1.TENSORFLOW....google , easy to learn and use
+2.PYTORCH.....facebook, 
+tesla used it for their self driving cars
+3.CNTK,,,,microsoft cognitive toolkit
+
+
+DAO :DECENTRALIZED AUTONOUMOUS ORGANIZATIONS
+
+ipfs:
+
+block chain: immutable linklist
+
+
+meta learning: reasaech feild of deep learning
+
+
+openminded
